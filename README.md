@@ -1,6 +1,6 @@
 # Capstone Papers
 
-This repository contains a small collection of academic papers in PDF format. The summaries below give a quick overview of each paper’s goal, approach, and contribution so you can decide what to read in full.
+This repository contains a small collection of academic papers. The summaries below give a quick overview of each paper’s goal, approach, and contribution so you can decide what to read in full.
 
 ## Papers at a glance
 
